@@ -1,0 +1,178 @@
+﻿一	Nhất - số 1
+|	Cổn - Nét sổ
+ヽ	Chủ - Chấm chủ
+ノ	Phiệt - Nét phiệt
+乙	Ất (Can thứ hai trong 10 can)
+亅	Quyết - Nét móc
+ニ	Nhị - Số 2
+亠	Đầu - Bộ đầu
+人	Nhân - Con người, người, loài người, nhân loại
+儿	Nhân đi
+イ	Nhân đứng
+𠂉	Nhân nằm
+八	Bát - số 8
+冂	Quynh - Biên giới
+冖	Mịch - cái khăn
+冫	Băng - băng tuyết
+几	Kỷ - ghế
+凵	Khảm - Há miệng
+刀	Đao - Đao kiếm
+⺉	Đao - bộ đao
+力	Lực - sức lực
+勹	Bao - bao bọc
+匕	Chủy - cái thìa
+匚	Phương - tủ đựng
+十	Thập - số 10
+卜	Bốc - xem bói
+卩	Tiết - đốt tre
+厂	Hán - sườn núi
+厶	Khư - riêng tư
+又	Hựu - lại nữa
+口	Khẩu - mồm, miệng
+囗	Vi - vây quanh
+土	Thổ - đất
+士	Sĩ - Kẻ sĩ
+夂	Truy - phía sau
+夕	Tịch - chiều tối
+大	Đại - to lớn
+女	Nữ - con gái
+子	Tử - con
+宀	Miên - mái nhà
+寸	Thốn - đơn vị đo(tấc, thước tấc)
+小	Tiểu - nhỏ
+尢	Uông - yếu đuối
+尸	Thi - thây ma
+屮	Triệt - mần non
+山	Sơn - núi
+川	Xuyên - sông ngòi
+巛	Bộ xuyên
+工	Công - công phu
+己	Kỷ - bản thân
+巾	Cân - cái khăn
+干	Can - khô
+幺	Yêu - nhỏ
+广	Nghiễm - mái nhà
+廴	Dẫn - bước dài
+廾	Củng - chắp tay
+弋	Đặc - chiếm lấy
+弓	Cung - cung tên
+ヨ	Kệ - đầu con nhím
+彡	Sam - tóc dài
+彳	Xích - bước chân trái
+心	Tâm - trái tim
+⺖	Bộ tâm
+戈	Qua - cây qua
+戸	Hộ - cửa
+手	Thủ - tay
+⺘	Bộ thủ
+支	Chi - chi nhánh
+攵	Phộc - đánh khẽ
+文	Văn - văn thơ
+斗	Đẩu - cái đấu
+斤	Cân - cái búa
+方	Phương - phương hướng
+日	Nhật - nhật bản, ngày
+月	Nguyệt - mặt trăng, tháng
+木	Mộc - cây
+欠	Khuyết - thiếu
+止	Chỉ - dừng lại
+歹	Ngạt - xấu xa
+殳	Thù - binh khí
+毋	Vô - chớ, đừng
+比	Tỷ - tỷ đối
+毛	Mao - lông
+氏	Thị - họ
+气	Khí - hơi nước
+水	Thủy - nước
+火	Hỏa - lửa
+⺣	Bộ hỏa
+爪	Trảo - móng tay
+爿	Tường - mảnh gỗ
+片	Phiến - mảnh, tấm
+牙	Nha - răng
+牛	Ngưu - con trâu
+犬	Khuyển - con chó
+玄	Huyền - màu đen
+甘	Cam - ngọt
+生	Sinh - sinh sản
+用	Dụng - sử dụng
+田	Điền - ruộng
+疒	Nạch - bệnh tật
+癶	Bát - trở lại
+白	Bạch - màu trắng
+皮	Bì - da
+皿	Mãnh - bát đĩa
+目	Mục - mắt
+矛	Mâu - mâu thuẫn
+矢	Thỉ - mũi tên
+石	Thạch - đá
+示	Thị - biểu thị
+禾	Hòa - lúa
+立	Lập - đứng dậy
+⺡	Bộ thủy
+⺨	Bộ khuyển
+⺾	Thảo - cỏ
+⻏	Ấp - vùng đất
+竹	Trúc - tre trúc
+⻂	Bộ y
+米	Mễ - gạo
+⺭	Bộ thị
+玉	Ngọc - bảo ngọc
+糸	Mịch - sợi tơ
+缶	Phẫu - đồ sành
+羊	Dương - con cừu
+羽	Vũ - cánh
+老	Lão - người già
+而	Nhi - mà, và
+耒	Lỗi - cái cày
+耳	Nhĩ - tai
+聿	Duật - cây bút
+肉	Nhục - thịt
+臣	Thần - đại thần
+自	Tự - bản thân
+至	Chí - đến
+舌	Thiệt - cái lưỡi
+舛	Suyễn - sai lầm
+舟	Chu - cái thuyền
+色	Sắc - màu sắc
+⺾	Thảo - cỏ
+虫	Trùng - sâu bọ
+血	Huyết - máu
+行	Hành - tiến hành
+衣	Y - y phục
+見	Kiến - nhìn
+⻂	Bộ y
+角	Giác - góc, sừng
+言	Ngôn - nói
+谷	Cốc - thung lũng
+豆	Đậu - hạt đậu
+豕	Thỉ - con lợn
+豸	Trĩ - sâu
+貝	Bối - con sò
+走	Tẩu - chạy
+足	Túc - chân
+車	Xa - xe
+辰	Thần - thìn
+辶	Sước - bước đi
+⻏	Ấp - vùng đất
+酉	Dậu - đo time
+里	Lý - hải lý
+金	Kim - vàng
+門	Môn - cổng
+⻏	Phụ - đống đất
+隶	Đãi - kịp đến
+隹	Chuy - com chim
+雨	Vũ - mưa
+青	Thanh - xanh da trời
+非	Phi - phi thường
+韋	Vi - da
+音	Âm - âm thanh
+頁	Hiệt - trang giấy
+食	Thực - ăn
+首	Thủ - cổ
+馬	Mã - ngựa
+魚	Ngư - con cá
+斉	Tề - ngang bằng
+入	Nhập - đi vào
+父	Phụ - bố
+ヨ	Kí - chém

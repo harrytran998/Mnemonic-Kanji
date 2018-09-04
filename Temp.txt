@@ -1,0 +1,40 @@
+﻿左	Tả (bên trái)
+三	Tam - 3
+山	Sơn - núi
+算	Toán - toán học
+作	Tác - làm, tạo nên
+細	Tế - gầy, nhỏ
+才	Tài (tuổi, thiên tài)
+四	Tứ - 4
+矢	Thỉ (mũi tên)
+姉	Tỷ (chị gái)
+子	tử - con
+糸	Mịch (sợi tơ)
+紙	Chỉ (tờ giấy)
+市	Thị (thành phố)
+止	Chỉ (dừng lại, đình chỉ)
+思	Tư - suy nghĩ
+七	Thất - 7
+室	Thất (phòng)
+字	Tự (chữ)
+耳	Nhĩ (cái tai)
+時	Thời (thời gian)
+寺	Tự (Chùa)
+自	Tự - tự thân
+車	Xa (xe)
+社	Xã (xã hội)
+十	Thập - 10
+手	Thủ (cái tay)
+首	Thủ (cái cổ, thủ tướng)
+週	Chu (tuần)
+秋	Thu (mùa thu)
+書	Thư - sách
+小	Tiểu (nhỏ)
+正	Chính/Chánh - chính đáng, chính xác
+少	Thiểu (ít, thiểu số)
+女	Nữ - con gái
+上	Thượng (bên trên)
+食	Thực - thực phẩm
+場	Trường - địa điểm, nơi chốn
+色	Sắc (màu sắc)
+出	Xuất - Xuất ngoại

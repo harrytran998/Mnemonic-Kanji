@@ -1,0 +1,239 @@
+﻿音	Âm (âm thanh)
+雨	Vũ (mưa)
+羽	Vũ (lông chim)
+雲	Vân (mây)
+引	Dẫn (kéo)
+王	Vương (vua)
+円	Viên (viên mãn, tiền Yên)
+遠	Viễn (xa)
+園	Viên (công viên)
+火	Hỏa (lửa)
+花	Hoa (bông hoa)
+下	Hạ (bên dưới)
+家	Gia (gia đình, nhà)
+何	Hà (cái gì)
+夏	Hạ (mùa hè)
+料	Liệu - nguyên liệu, tài liệu
+歌	Ca - hát
+学	Học - học sinh, học thuyết
+画	Họa /Hoạch - họa sĩ; kế hoạch
+休	Hưu hưu trí, nghỉ ngơi
+九	Cửu - 9
+弓	Cung - (cây cung)
+牛	Ngưu - (con bò)
+玉	Ngọc - bảo ngọc
+空	Không -  trống rỗng
+魚	Ngư -  (con cá)
+具	Cụ - công cụ, dụng cụ
+五 	Ngũ - 5
+語	Ngữ - (ngôn ngữ)
+午	Ngọ - (giữa trưa)
+後	Hậu - phía sau
+楽	Lạc/Nhạc - Âm nhạc, vui vẻ
+月	Nguyệt (trăng)
+気	Khí (khí chất)
+記	Kí - nhật ký
+犬	Khuyển - (con chó)
+帰	Quy (trở về) 
+見	Kiến (nhìn)
+汽	Khí (hơi nước)
+絵	Hội - (hội họa)
+会	Hội - Gặp gỡ
+回	Hồi (vòng quanh, đi quanh)
+海	HẢI (biển)
+外	Ngoại (bên ngoài)
+金	Kim (vàng)
+近	Cận (gần)
+今	Kim (bây giờ)
+間	Gian (ở giữa, trung gian)
+角	Giác ( góc)
+活	Hoạt (sinh hoạt)
+教	Giáo giáo dục, giáo viên
+強	Cường (cường lực)
+兄	Huynh (anh trai)
+京	Kinh (kinh đô)
+原	Nguyên - nguyên gốc, nguyên nhân
+言	Ngôn (ngôn ngữ)
+元	Nguyên (nguyên khí)
+計	Kế - kế hoạch
+形	Hình (hình dạng)
+国	Quốc (quốc gia)
+谷	Cốc (thung lũng)
+黒	Hắc (màu đen)
+顔	Nhan nhan sắc, hồng nhan mặt
+岩	Nham (đất đá)
+丸	Hoàn (hình tròn)
+古	Cổ (cổ xưa)
+戸	Hộ (cánh cửa)
+口	Khẩu miệng - nhân khẩu, khẩu ngữ
+校	Hiệu (trường học)
+広	Quảng quảng trường, quảng đại rộng
+交	Giao (cắt nhau)
+工	Công (công trường)
+光	quang ánh sáng, quang minh
+公	Công (công cộng)
+考	khảo khảo sát, suy nghĩ
+行	Hành (đi, lữ hành)
+高	Cao (chiều cao, cao học)
+黄	Hoàng (màu vàng)
+合	Hợp (hòa hợp)
+左	Tả (bên trái)
+三	Tam - 3
+山	Sơn - núi
+算	Toán - toán học
+作	Tác - làm, tạo nên
+細	Tế - gầy, nhỏ
+才	Tài (tuổi, thiên tài)
+四	Tứ - 4
+矢	Thỉ (mũi tên)
+姉	Tỷ (chị gái)
+子	tử - con
+糸	Mịch (sợi tơ)
+紙	Chỉ (tờ giấy)
+市	Thị (thành phố)
+止	Chỉ (dừng lại, đình chỉ)
+思	Tư - suy nghĩ
+七	Thất - 7
+室	Thất (phòng)
+字	Tự (chữ)
+耳	Nhĩ (cái tai)
+時	Thời (thời gian)
+寺	Tự (Chùa)
+自	Tự - tự thân
+車	Xa (xe)
+社	Xã (xã hội)
+十	Thập - 10
+手	Thủ (cái tay)
+首	Thủ (cái cổ, thủ tướng)
+週	Chu (tuần)
+秋	Thu (mùa thu)
+書	Thư - sách
+小	Tiểu (nhỏ)
+正	Chính/Chánh - chính đáng, chính xác
+少	Thiểu (ít, thiểu số)
+女	Nữ - con gái
+上	Thượng (bên trên)
+食	Thực - thực phẩm
+場	Trường - địa điểm, nơi chốn
+色	Sắc (màu sắc)
+出	Xuất - Xuất ngoại
+森	Sâm (rừng sâu)
+新	Tân mới, cách tân, shin
+親	Thân - người thân
+心	Tâm - tâm trí
+人	Nhân - người
+春	Xuân - mùa xuân
+弱	Nhược - nhược điểm, yếu
+水	Thủy (nước)
+数	Số (số học, chữ số)
+西	Tây (phía tây)
+生	Sinh - sinh sản
+青	Thanh - màu xanh
+星	Tinh - ngôi sao
+声	Thanh (âm thanh)
+晴	Tình ( trời nắng)
+赤	Xích (màu đỏ)
+石	Thạch (đá)
+夕	Tịch (buổi chiều)
+雪	Tuyết (bông tuyết)
+切	Thiết - cắt
+千	Thiên - ~ nghìn
+先	Tiên (trước, tiên sinh)
+川	Xuyên (sông)
+船	Thuyền (cái thuyền)
+線	Tuyến - tuyến đường, đường dây
+前	Tiền - trước, mặt tiền
+草	Thảo (cỏ)
+早	Tảo - nhanh chóng
+走	Tẩu (chạy)
+組	Tổ - nhóm, tổ chức
+足	Túc (bàn chân)
+村	Thôn (thôn làng)
+図	Đồ - bản đồ, bức vẽ
+頭	Đầu (cái đầu)
+体	Thể - cơ thể
+太	Thái - béo, dày
+大	Đại - to lớn
+台	Đài - cái bệ
+弟	Đệ (em trai)
+多	Đa - đa, nhiều
+男	Nam (con trai)
+竹	Trúc (cây trúc)
+土	Thổ (đất, thổ nhưỡng)
+読	Độc - đọc
+虫	Trùng (côn trùng)
+中	Trung (ở giữa)
+昼	Trú (buổi trưa)
+通	Thông (thông qua, xuyên qua)
+直	Trực (ngay thẳng, sửa chữa)
+長	Trường - dài
+朝	Triều (buổi sáng)
+町	Đinh - thị trấn
+鳥	Điểu (con chim)
+茶	Trà (trà đạo)
+天	Thiên (trời)
+点	Điểm - điểm số trọng điểm
+店	Điếm (cửa hàng)
+田	Điền - ruộng ,den
+電	Điện (chớp, điện)
+池	Trì (cái ao)
+地	Địa - đất
+知	Tri (tri thức, hiểu biết)
+道	Đạo - con đường, con phố
+同	Đồng - giống nhau
+冬	Đông (mùa đông)
+刀	Đao (đao kiếm)
+当	Đương
+答	Đáp (trả lời, đáp án)
+東	Đông (phía đông)
+ニ	Nhị - 2
+日	Nhật - mặt trời, ngày
+入	Nhập (vào trong, nhập khẩu)
+年	Niên năm, niên đại nen
+肉	Nhục (thịt)
+内	Nội - bên trong, ở giữa
+南	Nam (phía nam)
+白	Bạch (màu trắng)
+八	Bát - 8
+百	Bách - ~trăm
+本	Bản (sách, Nhật Bản)
+番	Phiên (lần lượt)
+父	Phụ (bố)
+風	Phong - gió
+分	Phân - phân chia, phút
+聞	Văn/Vấn (nghe/hỏi)
+半	Bán (một nửa)
+馬	Mã ngựa
+麦	Mạch (lúa mạch)
+買	Mãi (mua)
+売	Mại (bán)
+米	Mễ - gạo
+歩	Bộ (đường bộ, đi bộ, con tốt)
+方	Phương - phương hướng
+北	Bắc (phía bắc)
+母	Mẫu (mẹ)
+名	Danh (tên, danh nhân)
+鳴	Minh (kêu, réo)
+明	Minh quang minh
+文	Văn (văn hóa,văn học)
+門	Môn cửa, nhập môn, cửa
+毎	Mỗi (mỗi ngày)
+妹	Muội (em gái)
+万	Vạn, nhiều, man, ban
+毛	Mao (lông)
+木	Mộc - cây
+目	Mục - mắt
+野	Dã (hoang dã, dã cầu)
+夜	Dạ (buổi tối)
+曜	Diệu (ngày)
+用	Dụng - sử dụng
+右	Hữu (bên phải)
+友	Hữu (bạn hữu)
+力	Lực - sức lực
+立	Lập
+林	Lâm (rừng)
+六	Lục - 6
+来	Lai (tới, đến)
+里	Lý - quê hương
+理	Lí - lý luận
+話	Thoại (hội thoại)
