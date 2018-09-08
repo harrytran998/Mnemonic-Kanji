@@ -8,5 +8,6 @@ fs.readFile('Mnemonic.txt', (err, data) => {
     console.log(listKanji);
 });
 
+
 console.log('This is after the read call'); 
 /// Cann't running ! ^_^ 
